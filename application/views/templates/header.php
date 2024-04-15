@@ -182,7 +182,7 @@ $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
                                 <a href="<?php echo base_url(); ?>devotionalsListing" title="devotionalsListing">Listing</a>
                             </li>
                             <li>
-                                <a href="<?php echo base_url(); ?>newDevotional" title="newDevotional">New Devotional</a>
+                                <a href="<?php echo base_url(); ?>newDevotional" title="newDevotional">New Daily Mass & Devotional</a>
                             </li>
 
                         </ul>

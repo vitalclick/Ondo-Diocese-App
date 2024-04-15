@@ -2,7 +2,7 @@
     <!-- Page content-->
     <div class="container-fluid">
         <div class="block-header">
-            <h2>Add New Devotional</h2>
+            <h2>Add New Daily Mass & Devotional</h2>
         </div>
 
 
