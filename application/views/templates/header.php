@@ -76,7 +76,7 @@ $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
             <div class="navbar-header">
                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" href="<?php echo site_url(); ?>">ChurchApp - ADMIN</a>
+                <a class="navbar-brand" href="<?php echo site_url(); ?>">Ondo Diocese App - ADMIN</a>
             </div>
 
             <div class="collapse navbar-collapse" id="navbar-collapse">
@@ -259,7 +259,7 @@ $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
                     <li <?php if (strpos($url, 'coupons') !== false) { ?> class="active" <?php } ?>>
                         <a href="<?php echo base_url(); ?>branches" title="coupons">
                             <i class="material-icons">my_location</i>
-                            <span>Church Branches</span>
+                            <span>Parishes</span>
                         </a>
                     </li>
                     <li <?php if (strpos($url, 'coupons') !== false) { ?> class="active" <?php } ?>>
@@ -291,7 +291,7 @@ $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
             <!-- Footer -->
             <div class="legal">
                 <div class="copyright">
-                    &copy; <?php echo date('Y'); ?> <a href="javascript:void(0);">ChurchApp - Admin</a>.
+                    &copy; <?php echo date('Y'); ?> <a href="javascript:void(0);">Ondo Diocese App - Admin</a>.
                 </div>
 
             </div>

@@ -3,7 +3,7 @@
     <!-- Page content-->
     <div class="container-fluid">
         <div class="block-header">
-            <h2>Church Branches</h2>
+            <h2>Parishes</h2>
             <ol class="breadcrumb align-right">
                 <li>
                     <a type="button" href="<?php echo site_url().'newBranch'; ?>"  class="btn  btn-lg btn-primary waves-effect" style="color:white;">Add New</a>
