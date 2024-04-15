@@ -75,7 +75,7 @@
                             </div>
 
                             <div class="input-group addon-line">
-                                <label>Image Shown for devotionals (Leave empty to use app default)</label>
+                                <label>Image Shown for Daily Mass & Devotionals (Leave empty to use app default)</label>
                                 <div class="form-line">
                                     <input type="url" class="form-control" name="image_six" placeholder="" value="<?php echo $settings->image_six; ?>">
                                 </div>

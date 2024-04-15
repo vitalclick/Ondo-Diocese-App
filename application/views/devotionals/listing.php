@@ -1,7 +1,7 @@
 <section class="content">
     <div class="container-fluid">
         <div class="block-header">
-            <h2>All Devotionals</h2>
+            <h2>Daily Mass & Devotionals</h2>
         </div>
     <!-- Page content-->
     <div class="content-wrapper">

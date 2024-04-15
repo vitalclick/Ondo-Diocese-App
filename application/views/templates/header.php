@@ -175,7 +175,7 @@ $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
                     <li <?php if (strpos($url, 'devotional') !== false || strpos($url, 'devotional') !== false) { ?> class="active" <?php } ?>>
                         <a href="#categories" data-toggle="collapse" class="menu-toggle" aria-expanded="false">
                             <i class="material-icons">library_books</i>
-                            <span>Devotionals</span>
+                            <span>Daily Mass & Devotionals</span>
                         </a>
                         <ul class="ml-menu">
                             <li>
