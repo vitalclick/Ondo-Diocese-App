@@ -568,7 +568,7 @@ class Install_model extends CI_Model
     public function create_devotionals_table(){
       echo "<br><br>";
       echo ".......................................................................................<br>";
-      echo "Create new Devotionals table <br>";
+      echo "Create new Daily Mass/Devotionals table <br>";
       $db_4 = $this->dbforge;
 
       $db_4->add_field(array(
